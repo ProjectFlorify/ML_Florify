@@ -1,6 +1,6 @@
-# Tugas 2 Machine Learning
+# Model Machine Learning For Capstone Project
 
-Pada tugas ini saya mencoba membangun model machine learning dengan menggunakan SVM. Saya menggunakan artikel [ini](https://medium.com/@youness.habach/support-vector-machines-svm-explanation-mini-project-9d4b4962be52) sebagai referensi dalam mengerjakan tugas 2 mata kuliah machine learning. 
+This repository contains information about our model in capstone project. Our team created 3 model to detect dieasease plant 
 
 ## Installation
 
